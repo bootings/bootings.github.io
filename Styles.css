@@ -80,7 +80,7 @@ a {
 
 .content{
 	width: 100%;
-	margin: 14% auto
+	margin: 0 auto
 }
 div img{
 	text-align: center;
@@ -124,7 +124,7 @@ div img{
 	display: inline-block;
 	margin: 1% auto;
 	width: 100%;
-	height: 500px
+	height: 300px
 }
 
 .kon-kontaktinfo{
@@ -165,7 +165,7 @@ div img{
 
 .kon-button{
 	margin-top: 0;
-	margin-left: 0%;
+	margin-left: 7%;
 	background-color: darkgray;
 	border: none;
 	color: white;
