@@ -79,7 +79,7 @@ a {
 }
 
 .content{
-	text-align: center;
+	text-align: left;
 	width: 100%;
 	margin: 14% auto
 }
@@ -89,7 +89,7 @@ a {
 }
 
 .hje{
-	text-align: center
+	text-align: left
 }
 
 .column {
