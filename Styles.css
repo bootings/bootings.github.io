@@ -79,11 +79,12 @@ a {
 }
 
 .content{
-	text-align: left;
 	width: 100%;
 	margin: 14% auto
 }
-
+div img{
+	text-align: center;
+}
 .ban-billed{
 	margin: 10% auto	
 }
